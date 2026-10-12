@@ -1,6 +1,6 @@
 # Deploy and Host Flowise with Workers on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/flowise-workers?utm_medium=integration&utm_source=button&utm_campaign=flowise-workers)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/flowise-workers?referralCode=sLjDXb&utm_medium=integration&utm_source=button&utm_campaign=flowise-workers)
 
 This template runs [Flowise](https://flowiseai.com/) in **queue mode**: the main instance serves the UI and API, and a separate worker service executes predictions, document upserts and scheduled runs. Postgres (with pgvector), Redis and a Railway storage bucket come pre-wired. Scale workers up when your agents get busy, without touching the UI.
 
